@@ -1,8 +1,8 @@
-# Kavya Jain Constructions — Website
+# Ak Construction and Interiors — Website
 
-A static, five-page marketing website for Kavya Jain Constructions, a
-proprietor-run construction and real estate firm in Kumaraswamy Layout,
-Bengaluru. No build step, no framework, no backend.
+A static, five-page marketing website for Ak Construction and Interiors, a
+proprietor-run construction and real estate firm in Vidyaranyapura,
+Bangalore. No build step, no framework, no backend.
 
 ## Pages
 
@@ -103,7 +103,7 @@ Every one of these is disabled or neutralised under `prefers-reduced-motion`.
    carried a "4.8 rating · 82 reviews" claim that was placeholder data from an
    earlier draft of this site, invented for a different business name. It has
    been removed rather than carried over, since there was no verified review
-   data for Kavya Jain Constructions. In its place the site shows only what was
+   data for Ak Construction and Interiors. In its place the site shows only what was
    confirmed: Government Approved status, established 2014, proprietor Uday
    Jain. If you have real Google review numbers, they can be added back in the
    same slots (hero info-strip card, homepage credentials card, contact page
@@ -121,12 +121,13 @@ Every one of these is disabled or neutralised under `prefers-reduced-motion`.
 
 ## Business details used throughout
 
-- **Business name:** Kavya Jain Constructions
+- **Business name:** Ak Construction and Interiors
 - **Proprietor:** Uday Jain
 - **Established:** 2014
-- **Address:** Opp. SBI Bank, #920, 24th Cross Rd, 1st Stage, Kumaraswamy
-  Layout, Bengaluru, Karnataka 560111
-- **Phone:** 065034 50762 (linked as `tel:+916503450762`)
+- **Address:** # 10, Sai Nagar, 3rd Cross, Amba Bhavani Temple Road,
+  Vidyaranyapura, Bangalore, Karnataka, India
+- **Phone:** 097389 99144 (linked as `tel:+919738999144`)
+- **Email:** akconstructionsinteriors@gmail.com
 - **Hours:** Monday–Saturday, 9am–7pm
 - **Status:** Government Approved
 - **Services:** Building construction, structural/RCC work, interiors
@@ -135,7 +136,7 @@ Every one of these is disabled or neutralised under `prefers-reduced-motion`.
   and selling — independent houses, residential plots, hotels, warehouses)
 
 These appear in the hero info-strip, footer and contact page of every page.
-Search for `80351` to find each phone occurrence, or `Kumaraswamy` for the
+Search for `99144` to find each phone occurrence, or `Vidyaranyapura` for the
 address, when updating.
 
 ## Accessibility

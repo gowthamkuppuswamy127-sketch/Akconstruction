@@ -1,4 +1,4 @@
-/* Kavya Jain Constructions — site behaviour */
+/* Ak Construction and Interiors — site behaviour */
 
 (function () {
   "use strict";
@@ -319,7 +319,7 @@
           "Thanks, " +
           name.value.trim() +
           ". Your enquiry has been recorded on this device only — this form is not yet " +
-          "connected to email. Please call 065034 50762 so we can respond today.";
+          "connected to email. Please call 097389 99144 so we can respond today.";
         status.focus();
       }
     });
