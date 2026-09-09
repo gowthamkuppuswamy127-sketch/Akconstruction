@@ -104,8 +104,8 @@ Every one of these is disabled or neutralised under `prefers-reduced-motion`.
    earlier draft of this site, invented for a different business name. It has
    been removed rather than carried over, since there was no verified review
    data for Ak Construction and Interiors. In its place the site shows only what was
-   confirmed: Government Approved status, established 2014, proprietor Uday
-   Jain. If you have real Google review numbers, they can be added back in the
+   confirmed: Government Approved status, established 2014, proprietor Anil
+   Kumar. If you have real Google review numbers, they can be added back in the
    same slots (hero info-strip card, homepage credentials card, contact page
    credentials item — search for "Government Approved" to find them).
 4. **"12+ years" is a real, derived figure** (current year − 2014), not a
@@ -122,7 +122,7 @@ Every one of these is disabled or neutralised under `prefers-reduced-motion`.
 ## Business details used throughout
 
 - **Business name:** Ak Construction and Interiors
-- **Proprietor:** Uday Jain
+- **Proprietor:** Anil Kumar
 - **Established:** 2014
 - **Address:** # 10, Sai Nagar, 3rd Cross, Amba Bhavani Temple Road,
   Vidyaranyapura, Bangalore, Karnataka, India
