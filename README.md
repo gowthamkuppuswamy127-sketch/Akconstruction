@@ -30,16 +30,16 @@ connection.
 
 Defined as CSS custom properties at the top of `assets/css/style.css`.
 
-**Palette — "Bone & Executive Blue"**
+**Palette — "Ochre Terracotta"**
 
 | Token | Hex | Use |
 | --- | --- | --- |
-| `--bone` | `#FAF8F5` | Page background (warm off-white) |
-| `--bone-2` | `#F2EEE8` | Alternating section bands |
-| `--ink` | `#1A1A18` | Body text, dark sections, footer |
-| `--muted` | `#6B6459` | Secondary text (passes 4.5:1 on bone) |
-| `--taupe` | `#8C857B` | Borders, decorative, text on dark |
-| `--clay` | `#0E5AA5` | Accent — CTAs and active nav only (pulled from the "K" in the logo; the CSS variable keeps its original name) |
+| `--bone` | `#F7F1E6` | Page background (warm sand) |
+| `--bone-2` | `#F0E6D3` | Alternating section bands |
+| `--ink` | `#241C14` | Body text, dark sections, footer |
+| `--muted` | `#756751` | Secondary text (passes 4.5:1 on bone) |
+| `--taupe` | `#8E7E63` | Borders, decorative, text on dark |
+| `--clay` | `#9C5A1E` | Accent — CTAs and active nav only (a burnt-ochre pulled from the logo's gold, darkened to clear 4.5:1 text/button contrast; the CSS variable keeps its original name) |
 
 The accent is deliberately restricted to primary buttons, active navigation
 and section labels. That restraint is the point of the palette; adding it to

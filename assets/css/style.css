@@ -1,23 +1,23 @@
 /* ==========================================================================
    Ak Construction and Interiors — design tokens and styles
-   Palette: Bone & Executive Blue   Type: Archivo (display) / Inter (body)
+   Palette: Ochre Terracotta   Type: Archivo (display) / Inter (body)
    ========================================================================== */
 
 :root {
   color-scheme: light;
 
   /* Palette */
-  --bone: #faf8f5;
-  --bone-2: #f2eee8;
-  --bone-3: #eae5dc;
-  --ink: #1a1a18;
-  --ink-2: #2e2d2a;
-  --muted: #6b6459;
-  --taupe: #8c857b;
-  --clay: #0e5aa5;
-  --clay-dark: #0a4278;
-  --hairline: #ddd7cc;
-  --hairline-dark: #3a3833;
+  --bone: #f7f1e6;
+  --bone-2: #f0e6d3;
+  --bone-3: #e6d8be;
+  --ink: #241c14;
+  --ink-2: #362c21;
+  --muted: #756751;
+  --taupe: #8e7e63;
+  --clay: #9c5a1e;
+  --clay-dark: #6e3d10;
+  --hairline: #e0d2b4;
+  --hairline-dark: #4a3d2c;
   --white: #fff;
 
   /* Type */
